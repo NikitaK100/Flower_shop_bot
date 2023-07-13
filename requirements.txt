@@ -1,0 +1,6 @@
+aiogram~=2.17
+python-dotenv
+gino~=1.0.1
+SqlAlchemy
+qiwipy
+
